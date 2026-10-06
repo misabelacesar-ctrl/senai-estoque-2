@@ -1,0 +1,6 @@
+{
+  "name": "SENAI Estoque SP - Controle e Gestão de Inventário",
+  "description": "Sistema integrado de controle de estoques para o SENAI-SP com cadastro hierárquico automatizado, gestão de entradas/saídas, localização física e persistência em nuvem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

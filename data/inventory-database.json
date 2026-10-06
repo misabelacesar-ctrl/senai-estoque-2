@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-10-06T17:37:26.227Z",
+  "types": [],
+  "groups": [],
+  "subgroups": [],
+  "articles": [],
+  "movements": [],
+  "locations": [],
+  "githubConfig": {
+    "enabled": false,
+    "token": "",
+    "mode": "gist",
+    "gistId": "",
+    "repoOwner": "",
+    "repoName": "senai-estoque-backup",
+    "filePath": "senai_estoque_data.json",
+    "autoSync": false,
+    "lastStatus": "idle",
+    "lastMessage": "Aguardando configuração de persistência em nuvem"
+  }
+}
